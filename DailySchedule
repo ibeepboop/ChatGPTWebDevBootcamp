@@ -1,0 +1,118 @@
+Detailed Daily Timeline for the 12-Week Full Stack Web Developer Bootcamp
+Week 1-2: Introduction to Web Development
+Week 1: HTML & CSS Basics
+
+Day 1: Introduction to HTML, basic tags and structure.
+Day 2: HTML5 semantic elements, forms, and tables.
+Day 3: Introduction to CSS, selectors, and properties.
+Day 4: CSS box model, display properties, and positioning.
+Day 5: Flexbox basics and layout techniques.
+Day 6: Grid layout basics and implementation.
+Day 7: Project work: Structure and basic styling of the portfolio website.
+Week 2: Advanced CSS & Responsive Design
+
+Day 8: Advanced CSS: animations and transitions.
+Day 9: Media queries and responsive design principles.
+Day 10: Flexbox advanced techniques.
+Day 11: Grid layout advanced techniques.
+Day 12: Responsive design practice and testing.
+Day 13: Finalize styling and responsiveness of the portfolio website.
+Day 14: Project review and submission.
+Week 3-4: JavaScript Basics
+Week 3: JavaScript Fundamentals
+
+Day 15: JavaScript basics: variables, data types, and operators.
+Day 16: Control structures: if-else, switch-case.
+Day 17: Loops: for, while, and do-while.
+Day 18: Functions and scope.
+Day 19: DOM manipulation basics.
+Day 20: Event handling and listeners.
+Day 21: Project work: Setup and basic functionality of the to-do list.
+Week 4: Advanced JavaScript
+
+Day 22: Introduction to ES6: let, const, and template literals.
+Day 23: Arrow functions, spread/rest operators.
+Day 24: Promises and async/await.
+Day 25: Error handling and debugging techniques.
+Day 26: Fetch API and working with APIs.
+Day 27: Finalize to-do list project with advanced features.
+Day 28: Project review and submission.
+Week 5-6: Advanced JavaScript and Front-End Frameworks
+Week 5: Advanced JavaScript & React Introduction
+
+Day 29: Introduction to React: components and JSX.
+Day 30: Props and state in React.
+Day 31: Event handling in React.
+Day 32: React lifecycle methods.
+Day 33: Introduction to React Hooks.
+Day 34: Building a simple React application.
+Day 35: Project work: Weather application setup and API integration.
+Week 6: React Advanced Concepts
+
+Day 36: State management with hooks.
+Day 37: React Router for navigation.
+Day 38: Advanced state management with Context API.
+Day 39: Performance optimization in React.
+Day 40: Testing React applications.
+Day 41: Finalize weather application with all features.
+Day 42: Project review and submission.
+Week 7-8: Back-End Development with Node.js
+Week 7: Node.js & Express Basics
+
+Day 43: Introduction to Node.js, setting up environment.
+Day 44: Basic server setup with Node.js.
+Day 45: Introduction to Express.js and routing.
+Day 46: Middleware in Express.js.
+Day 47: RESTful API principles.
+Day 48: Building a simple RESTful API.
+Day 49: Project work: Setting up the blogging platform backend.
+Week 8: Database Integration & Advanced Express
+
+Day 50: Introduction to MongoDB and Mongoose.
+Day 51: Connecting to MongoDB from Node.js.
+Day 52: CRUD operations with MongoDB.
+Day 53: User authentication with JWT.
+Day 54: Securing Express applications.
+Day 55: Finalize blogging platform with user authentication and all features.
+Day 56: Project review and submission.
+Week 9-10: Full Stack Development
+Week 9: Full Stack Concepts
+
+Day 57: Authentication & authorization basics.
+Day 58: Building a secure authentication system.
+Day 59: Introduction to WebSockets.
+Day 60: Real-time communication with WebSockets.
+Day 61: RESTful services and API design principles.
+Day 62: Integrating front-end with back-end.
+Day 63: Project work: Real-time chat application setup and basic features.
+Week 10: DevOps Basics
+
+Day 64: Introduction to Git and version control.
+Day 65: Basic Git commands and workflows.
+Day 66: CI/CD pipelines and tools.
+Day 67: Deploying applications to Heroku.
+Day 68: Deploying static sites to Netlify.
+Day 69: Finalize real-time chat application with all features.
+Day 70: Project review and submission.
+Week 11-12: Capstone Project & Interview Preparation
+Week 11: Capstone Project Development
+
+Day 71: Choose capstone project idea and plan.
+Day 72: Set up project repository and initial setup.
+Day 73: Backend development.
+Day 74: Frontend development.
+Day 75: Integrate backend and frontend.
+Day 76: Add advanced features and optimizations.
+Day 77: Testing and debugging.
+Day 78: Finalize capstone project.
+Week 12: Interview Preparation
+
+Day 79: Resume writing and portfolio review.
+Day 80: Coding interview practice (arrays, strings).
+Day 81: Coding interview practice (linked lists, trees).
+Day 82: System design interview basics.
+Day 83: Mock interviews and feedback.
+Day 84: Final review and preparations.
+Day 85: Project presentation and submission.
+Day 86: Final day for catching up or additional practice.
+This detailed daily schedule should help keep you on track and ensure you cover all necessary topics. Feel free to adjust the timeline as needed to fit your personal pace and learning style.
